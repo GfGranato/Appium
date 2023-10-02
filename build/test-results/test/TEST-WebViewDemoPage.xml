@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WebViewDemoPage" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-02T18:24:56" hostname="DESKTOP-LAEE8N3" time="10.381">
+  <properties/>
+  <testcase name="scrollList" classname="WebViewDemoPage" time="10.381"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[out. 02, 2023 3:25:02 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMAÇÕES: Detected dialect: W3C
+]]></system-err>
+</testsuite>
